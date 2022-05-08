@@ -1,10 +1,8 @@
-# Portfólio João Túlio
+# Portfolio | Suraj Hemnani
 
-Este projeto foi criado com CRA (Create React App).
+A repository for my personal information and CV.
 
-Este é meu site para me apresentar, aqui coloco minhas habilidades, portfólio, e formas de contact.
-
-## Tecnologias usadas:
+## Technologies Used:
 
 - React
 - Typescript
