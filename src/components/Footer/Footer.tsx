@@ -23,14 +23,14 @@ export function Footer() {
       <div className="social-media">
       
       <a
-          href="https://www.linkedin.com/in/jtsoares/"
+          href="https://www.linkedin.com/in/suraj-hemnani/"
           target="_blank"
           rel="noreferrer"
         >
           <img className='reload-logo' src={logo} alt="Logo" />
         </a>
         <a
-          href="https://www.linkedin.com/in/jtsoares/"
+          href="https://www.linkedin.com/in/suraj-hemnani/"
           target="_blank"
           rel="noreferrer"
         >
@@ -38,7 +38,7 @@ export function Footer() {
         </a>
 
         <a
-          href="https://github.com/joaotuliojt"
+          href="https://github.com/Suraj-Kumar-Hemnani"
           target="_blank"
           rel="noreferrer"
         >
@@ -46,19 +46,11 @@ export function Footer() {
         </a>
 
         <a
-          href="https://www.instagram.com/tulio_joaob/"
+          href="https://www.instagram.com/surajkumar0688/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={instagramIcon} alt="Instagram" />
-        </a>
-
-        <a
-          href="https://discord.com/users/426120432991862784"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img src={discordIcon} alt="Discord" />
         </a>
       </div>
     </Container>
