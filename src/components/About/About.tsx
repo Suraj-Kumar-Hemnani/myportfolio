@@ -20,11 +20,11 @@ export function About(){
           <h2>About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>My name is Suraj Hemnani, I am a computer technician with a great passion for programming. I am passionate about delivering solutions that add to people's lives and at the same time challenge me. Improved my skills as a Front-End and Back-End developer</p>
+          <p>My name is Suraj Hemnani, I am a computer technician with a great passion for programming. I am passionate about delivering solutions that add to people's lives and at the same time challenge me. Improved my skills as a Front-End Developer and an efficient Scrum Master</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000} style={{marginTop: "2rem", marginBottom: "2rem"}}>
 
-          <p>I develop websites and applications using HTML, CSS, and JavaScript. I am familiar with developing layouts that provide me. I'm always improving myself with each project they put in my hands.</p>
+          <p>I develop websites and applications using React, HTML, CSS, and JavaScript. I am familiar with developing layouts that are provided to me. I'm always improving myself with each project they put in my hands.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.6 * 1000}>
 
